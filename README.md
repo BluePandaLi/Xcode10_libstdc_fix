@@ -1,14 +1,16 @@
 # Xcode10_libstdc_fix
 Xcode10 libstdc++ librarys missing fix.
 
-#How To Use
+# How To Use
 
-##Install
+## Install
 sh libstdc++.XCode10_temporary_fix.sh -install
 
-##Uninstall
+## Uninstall
 sh libstdc++.XCode10_temporary_fix.sh -uninstall
 
-#Source
+# Source
 libstdc++* libraries extract from Xcode9.4.
 
+# Licence
+MIT
