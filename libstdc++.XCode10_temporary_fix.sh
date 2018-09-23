@@ -11,5 +11,5 @@ elif [[ "$PARAMETER" =~ "install" ]]; then
 	echo "libstdc++ install success."	
 else
 	echo "Use -install or -uninstall parameter please."
-	echo "libstdc++ extract by Xcode 9.4."
+	echo "libstdc++ extract from Xcode 9.4."
 fi
